@@ -1,5 +1,5 @@
 # Math Playground
-There are many notes for different fields of pure math in this repository.
+There are some notes for different fields of pure math in this repository.
 
 Here shows the list:
 ## Real Variables
